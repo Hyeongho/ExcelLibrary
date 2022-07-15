@@ -16,9 +16,9 @@ int main()
 {
 	CExcel::CExcelLIB excel;
 
-	int a = excel.Add(1, 2);
-	 
-	std::cout << a << std::endl;
+	int ab = excel.Add(1, 2);
+
+	std::cout << ab << std::endl;
 
 	return 0;
 }
