@@ -92,6 +92,6 @@
     <MSBuild BuildInParallel="true" UseResultsCache="true" Projects="$(MSBuildProjectFullPath)" Properties="DllExportRPkgDyn=true" Targets="Build" />
   </Target>
   <PropertyGroup>
-    <PostBuildEvent>xcopy "$(SolutionDir)ExcelDLL\bin\*" "$(SolutionDir)ExcelLIB\Bin\" /S /D /Y</PostBuildEvent>
+    <PostBuildEvent>xcopy "$(SolutionDir)ExcelDLL\bin\*" "$(SolutionDir)ExcelLIB\Bin\" /s /d /y</PostBuildEvent>
   </PropertyGroup>
 </Project>
