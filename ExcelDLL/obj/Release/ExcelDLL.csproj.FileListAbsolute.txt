@@ -1,0 +1,5 @@
+D:\ExcelLib\ExcelLibrary\ExcelDLL\bin\Release\ExcelDLL.dll
+D:\ExcelLib\ExcelLibrary\ExcelDLL\bin\Release\ExcelDLL.pdb
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Release\ExcelDLL.csproj.CoreCompileInputs.cache
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Release\ExcelDLL.dll
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Release\ExcelDLL.pdb

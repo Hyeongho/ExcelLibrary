@@ -1,0 +1,6 @@
+D:\ExcelLib\ExcelLibrary\ExcelDLL\bin\Debug\ExcelDLL.dll
+D:\ExcelLib\ExcelLibrary\ExcelDLL\bin\Debug\ExcelDLL.pdb
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Debug\ExcelDLL.csproj.CoreCompileInputs.cache
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Debug\ExcelDLL.dll
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Debug\ExcelDLL.pdb
+D:\ExcelLib\ExcelLibrary\ExcelDLL\obj\Debug\ExcelDLL.csproj.AssemblyReference.cache
