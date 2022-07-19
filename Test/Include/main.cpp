@@ -10,8 +10,6 @@
 
 #endif // _DEBUG
 
-using namespace CExcel;
-
 int main()
 {
 	CExcel::CExcelLIB excel;

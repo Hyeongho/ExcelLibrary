@@ -1,12 +1,3 @@
 ﻿  ExcelLIB.cpp
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-  ExcelLIB.vcxproj -> D:\ExcelLib\ExcelLibrary\ExcelLIB\Bin\ExcelLIB_Debug.lib
-  .\ExcelLiB\Bin\ExcelLIB_Debug.lib
-  1개 파일이 복사되었습니다.
-  .\ExcelLiB\Bin\ExcelLIB_Debug.lib
-  1개 파일이 복사되었습니다.
-  0개 파일이 복사되었습니다.
-  파일을 찾을 수 없습니다-*.inl
-  0개 파일이 복사되었습니다.
-  파일을 찾을 수 없습니다-*.hpp
-  0개 파일이 복사되었습니다.
+  ExcelLIB.vcxproj -> D:\ExcelLib\ExcelLibrary\ExcelLIB\Bin\ExcelLIB.lib
